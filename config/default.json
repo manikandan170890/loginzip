@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://mani123:mani123@altimetrikconnector-cmclz.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken"
+}
